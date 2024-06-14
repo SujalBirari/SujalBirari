@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujal Birari</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalbirari&label=Profile%20views&color=0e75b6&style=flat" alt="sujalbirari" /> </p>
-
 - 🔭 I’m currently working on **HTML-CSS projects.**
 
 - 🌱 I’m currently learning **CSS.**
@@ -27,11 +25,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalbirari&show_icons=true&locale=en&layout=compact" alt="sujalbirari" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalbirari&show_icons=true&locale=en&layout=compact" alt="sujalbirari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujalbirari&show_icons=true&locale=en" alt="sujalbirari" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sujalbirari&show_icons=true&locale=en" alt="sujalbirari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalbirari&" alt="sujalbirari" /></p
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalbirari&" alt="sujalbirari" /></p
 
 
 <!---

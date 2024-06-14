@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="portfolio-bg.png" alt="Banner Image" style="max-height: 300px; width: 100%;" />
-</p>
+
 <h1 align="center">Hey there!👋,I'm Sujal!</h1>
 <h3 align="center">A passionate HTML Developer from India!</h3>
+
 
 - 🔭 I’m currently working on HTML-CSS Projects
 

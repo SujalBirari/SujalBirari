@@ -22,8 +22,8 @@
   <a href="https://linkedin.com/in/sujal-birari-88b5a1229" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujal birari linkedin" height="40" width="50" />
   </a>
-  <a href="https://www.hackerrank.com/sujalbirari" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sujal birari hackerrank" height="40" width="50" />
+  <a href="https://leetcode.com/u/sujalbirari/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="sujal birari leetcode" height="40" width="50" />
   </a>
   
 </p>

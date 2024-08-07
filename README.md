@@ -23,7 +23,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujal birari linkedin" height="40" width="50" />
   </a>
   <a href="https://leetcode.com/u/sujalbirari/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="sujal birari leetcode" height="40" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujal birari leetcode" height="40" width="50" />
   </a>
   
 </p>

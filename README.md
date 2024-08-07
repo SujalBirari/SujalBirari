@@ -1,9 +1,9 @@
 
 <h1 align="center">Hey there!👋,I'm Sujal!</h1>
-<h3 align="center">A passionate HTML Developer from India!</h3>
+<h3 align="center">A passionate Full Stack Developer!</h3>
 
 
-- 🔭 I’m currently working on Spring Boot - Microservices Projects
+- 🔭 I’m currently working on **Spring Boot - Microservices Projects**
 
 - 🌱 I’m currently learning **Microservies Architecture**
 
@@ -29,7 +29,9 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<p align="left"> 
+  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="html5" width="40" height="40"/> </a>
 <br>
 
 <a href="https://github.com/sujalbirari?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=sujalbirari&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats"/></a>

@@ -3,13 +3,13 @@
 <h3 align="center">A passionate HTML Developer from India!</h3>
 
 
-- 🔭 I’m currently working on HTML-CSS Projects
+- 🔭 I’m currently working on Spring Boot - Microservices Projects
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **Microservies Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sujalbirari?tab=repositories](https://github.com/sujalbirari?tab=repositories)
 
-- 💬 Ask me about **HTML**
+- 💬 Ask me about **Java Full Stack Development**
 
 - 📫 How to reach me **sujalbirari@gmailcom**
 
